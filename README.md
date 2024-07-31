@@ -1,1 +1,1 @@
-# fap_agenda_ongs
+Projeto de estudo para o curso FAP - Backend em Python
